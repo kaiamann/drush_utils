@@ -1,2 +1,2 @@
 #!/bin/bash
-drush php:script ~/scripts/deleteBundles.php
+run ~/scripts/deleteBundles.php
