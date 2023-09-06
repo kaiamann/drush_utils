@@ -1,0 +1,5 @@
+#!/bin/bash
+drush pm:uninstall $1
+drush cr
+drush en $1 
+drush cr
